@@ -1,0 +1,34 @@
+.wrapper{
+    display: flex;
+    justify-content: space-around;
+    height: 100px;
+    align-items: center;
+    background-color:#111;
+}
+.navmiddle{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+    width: 30vw;
+}
+ 
+.navbtn{
+    color: white;
+    background-color: #111;
+        text-align: center;
+        font-family: Inter;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 600;
+        border: white solid 1px;
+        padding: 14px 36px;
+}
+.navlink{
+    color: white;
+        text-align: center;
+        font-family: inter;
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 162.523%;
+}
