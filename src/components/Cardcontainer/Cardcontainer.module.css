@@ -1,0 +1,47 @@
+.head {
+  color: #fff;
+  font-size: 54px;
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: 97px;
+}
+
+.card {
+  height: 377px;
+  width: 360px;
+  color: white;
+  padding: 24px;
+  border-radius: 14px;
+  border: 1.4px solid rgba(255, 255, 255, 0.1);
+  background: #1d1d1d;
+}
+
+.cardh1 {
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 24px;
+  margin-bottom: 24px;
+}
+
+.cardpara {
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  opacity: 0.3;
+  margin-bottom: 24px;
+  width: 293px;
+}
+
+.cardwrapper{
+    display: flex;
+    justify-content: center;
+    column-gap: 31px;
+}
+.wrapper{
+    margin-bottom: 150px;
+}
+
+.card:hover{
+  background-color: #2E2E2E;;
+}
